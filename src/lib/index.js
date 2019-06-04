@@ -1,2 +1,2 @@
 module.exports = () => true;
-// stupid questions, you can drink coffee any time of the day
+// stupid question, you can drink coffee any time of the day

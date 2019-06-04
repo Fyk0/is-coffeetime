@@ -1,6 +1,6 @@
 {
 	"name": "is-coffeetime",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Determins if now is a good time for coffee",
 	"typings": "typings/index.d.ts",
 	"main": "src/lib/index.js",
